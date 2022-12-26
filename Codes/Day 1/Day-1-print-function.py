@@ -1,0 +1,1 @@
+print(" Day 1 - Pyhton Function\n The Function is declared like this:\n print('what to print')")
